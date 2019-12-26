@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentDemo1</string>
+    <string name="app_heading">Intent Example</string>
+    <string name="title">If you click on Explicit example we will navigate to second activity within App and if you click on Implicit example AbhiAndroid Homepage will open in Browser</string>
+    <string name="explicit">EXPLICIT INTENT EXAMPLE</string>
+    <string name="implicit">IMPLICIT INTENT EXAMPLE</string>
+
+    <string name="second">This is Second Activity Example</string>
+</resources>
